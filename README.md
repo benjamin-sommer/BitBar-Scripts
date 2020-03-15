@@ -1,6 +1,6 @@
 # BitBar-Scripts
 
-##Instalation
+## Instalation
 1. Install [BitBar](https://getbitbar.com/) and choose a location for your plugins folder.
 2. Download and extract this repo and move the 2 scripts into the plugins folder.
 3. Install the dependencies using `pip`
