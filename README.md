@@ -9,7 +9,7 @@
 6. In the menu bar, go to BitBar > Preferences > Refresh All.
 7. You should now see the plugins in the menu bar.
 
-### Coronavirus specific setup
-1. Open the `coronavirus.py` file in any text editor.
+### Coronavirus country specific setup
+1. Open the `coronavirus-uk.py` file in any text editor.
 2. Change line 26 `if x["country"] == "UK":` to `if x["country"] == "{country name}":`
 3. In the menu bar, go to BitBar > Preferences > Refresh All.
